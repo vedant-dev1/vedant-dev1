@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedant Dev</h1>
 <h3 align="center">Frontend Developer | Python Enthusiast | UI/UX Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-dev1&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-dev1" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://vedantdev2.netlify.app/](https://vedantdev2.netlify.app/)
